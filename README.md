@@ -43,8 +43,3 @@ This project targets the general version of **EigenLayer smart contracts** that 
 This project is licensed under the **Apache License 2.0 (APLv2)**.
 
 > **Note:** Some components may depend on or interoperate with third-party software from [EigenLayer](https://www.eigenlayer.xyz/) that is separately licensed. Please consult those components’ respective repositories for detailed licensing terms.
-
-## Acknowledgements
-
-- [Cartesi](https://cartesi.io)
-- [EigenLayer](https://www.eigenlayer.xyz)
