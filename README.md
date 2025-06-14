@@ -6,6 +6,13 @@ The **Cartesi Coprocessor** combines the technologies of [EigenLayer](https://ww
 
 This project enables developers to extend the capabilities of Ethereum applications by leveraging Cartesi's RISC-V-based execution environment in conjunction with EigenLayer's AVS (Actively Validated Services) infrastructure. The result is a powerful, modular architecture for off-chain computation with trustless validation.
 
+## Other relevant repositories
+
+https://github.com/cartesi/coprocessor-solver
+https://github.com/cartesi/coprocessor-operator
+https://github.com/cartesi/coprocessor-advance-runner
+https://github.com/cartesi/coprocessor-evm-call
+
 ## Architecture
 
 The Cartesi Coprocessor consists of smart contracts and two primary off-chain components:
